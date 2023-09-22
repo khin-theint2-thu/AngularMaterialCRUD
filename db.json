@@ -1,0 +1,33 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "firstName": "Khin ",
+      "lastName": "Theint",
+      "email": "khintheint@gmail.com",
+      "dob": "2016-09-13T17:30:00.000Z",
+      "gender": "female",
+      "education": "Intermediate",
+      "company": "Systematic",
+      "experience": 111,
+      "package": 111,
+      "id": 3
+    }
+  ]
+}
